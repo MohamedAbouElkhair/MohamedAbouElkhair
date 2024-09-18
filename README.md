@@ -32,14 +32,9 @@
 <body>
     <div class="container">
         <h1>Mohamed Ashraf Abou Elkhair</h1>
-        <p class="contact-info">
-            Beheira, Egypt<br>
-            +20 109 335 9672 | <a href="mailto:mohammedashraf1610@gmail.com">mohammedashraf1610@gmail.com</a><br>
-            <a href="http://www.linkedin.com/in/mohamedabouelkhair">LinkedIn/MohamedAbouElkhair</a>
-        </p>    <div class="section">
-        <h2>Summary</h2>
-        <p>A highly motivated student seeking a challenging opportunity in the accounting industry to acquire further experience and apply academic knowledge. Committed to contributing to the success of the organization and enhancing its productivity through a strong foundation in accounting principles and financial analysis, I am excited to be part of a dynamic team where I can make a meaningful impact.</p>
-    </div>
+       
+  
+<p>A highly motivated Undergraduated seeking a challenging opportunity in the accounting industry to acquire further experience and apply academic knowledge. Committed to contributing to the success of the organization and enhancing its productivity through a strong foundation in accounting principles and financial analysis, I am excited to be part of a dynamic team where I can make a meaningful impact.</p>
 
   <div class="section">
     <h2>Education</h2>
