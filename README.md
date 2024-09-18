@@ -1,4 +1,31 @@
-- 👋 Hi, I’m MohamedAbouElkhair
+<div align="center">
+  <img height="200" src="https://i.postimg.cc/02zb6VY4/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohamedabouelkhair/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=White&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/MohamedAbouEkhair/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+  <a href="https://api.whatsapp.com/send/?phone=201093359672&text&type=phone_number&app_absent=0" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+  <a href="https://t.me/MohamedAbouElkhair" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=Mohammedashraf1610@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://outlook.live.com/owa/?path=/mail/action/compose&to=Mohammedashraf1610@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
 <!DOCTYPE html>
 <html lang="en">
 
