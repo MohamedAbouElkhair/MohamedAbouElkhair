@@ -2,6 +2,15 @@
   <img height="250" src="https://i.postimg.cc/02zb6VY4/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png"  />
 </div>
 
+
+<!DOCTYPE html>
+<html lang="en">
+
+<body>
+<div align="center">
+    <h1>Mohamed Ashraf Abou Elkhair</h1>
+</div>
+
 ###
 
 <div align="center">
@@ -26,15 +35,12 @@
 </div>
 
 ###
-<!DOCTYPE html>
-<html lang="en">
-
-<body>
-    <div class="container">
-        <h1>Mohamed Ashraf Abou Elkhair</h1>
-       
   
-<p>A highly motivated Undergraduated seeking a challenging opportunity in the accounting industry to acquire further experience and apply academic knowledge. Committed to contributing to the success of the organization and enhancing its productivity through a strong foundation in accounting principles and financial analysis, I am excited to be part of a dynamic team where I can make a meaningful impact.</p>
+<body>
+   <p>
+            A highly motivated undergraduate seeking a challenging opportunity in the accounting industry to acquire further experience and apply academic knowledge. Committed to contributing to the success of the organization and enhancing its productivity through a strong foundation in accounting principles and financial analysis, I am excited to be part of a dynamic team where I can make a meaningful impact.
+        </p>
+
 
   <div class="section">
     <h2>Education</h2>
