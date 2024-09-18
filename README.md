@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.postimg.cc/02zb6VY4/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png"  />
+  <img height="250" src="https://i.postimg.cc/02zb6VY4/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png"  />
 </div>
 
 ###
